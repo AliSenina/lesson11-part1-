@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  background: linear-gradient(#c66c4956, #f5d6ab33), url(./assets/img/bg.png);
+  width: 1440px;
+  height: 768px;
+  padding-top: 93px;
+  padding-left: 165px;
+  padding-right: 166px;
+}
+.text {
+  margin-top: 145px;
+}
+.white-container {
+  height: 544px;
+  padding: 93px 167px 115px 166px;
+}
+.main-text {
+  padding-top: 76px;
+  width: 1107px;
+  font-family: "Libre Franklin", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: justify;
+}
+.skills {
+  height: 653px;
+  width: 1440px;
+  background-color: #fffaf2;
+  padding: 93px 167px 115px 166px;
+}
+.img {
+  background-image: url(./assets/img/Profile\ Picture.png);
+  width: 350px;
+  height: 340px;
+  margin-top: 86px;
+}
+.progresSkills {
+  margin-top: 86px;
+  margin-left: 125px;
+  width: 625px;
+}
+.progress {
+  background-color: #f5d6ab;
+  border-radius: 0;
+}
+.progress-bar {
+  background-color: #c66c49;
+}
+.uX {
+  overflow: hidden;
+  text-align: justify;
+  font-family: "Libre Franklin", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+}
+.uX1 {
+  font-family: "Libre Franklin";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #333333;
+  margin-left: 80px;
+}
+.progress {
+  width: 446px;
+}
+.word{
+font-family: 'Libre Franklin';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+color: #333333;
+margin: 86px auto 48px auto;
+
+}
+.portfolioText{
+font-family: 'Libre Franklin';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+text-align: justify;
+color: #333333;
+margin: 0px 125px 220px auto;
+width: 349px;
+height: 143px;
+}
+.footer{ 
+    height: 528px;
+    width: 1440px;
+    background-color: #fffaf2;
+
+}
+.white-container2{
+    height: 822px;
+    padding: 93px 167px 115px 166px;
+}
+.footerHead{
+   margin: 86px auto 51px 165px;
+   font-family: 'Libre Franklin';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+color: #333333;
+
+
+}
